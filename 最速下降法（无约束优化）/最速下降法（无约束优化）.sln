@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "最速下降法（无约束优化）", "最速下降法（无约束优化）\最速下降法（无约束优化）.vcxproj", "{67782A22-02F1-489D-8BC5-B413DCDEA845}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67782A22-02F1-489D-8BC5-B413DCDEA845}.Debug|Win32.ActiveCfg = Debug|Win32
+		{67782A22-02F1-489D-8BC5-B413DCDEA845}.Debug|Win32.Build.0 = Debug|Win32
+		{67782A22-02F1-489D-8BC5-B413DCDEA845}.Release|Win32.ActiveCfg = Release|Win32
+		{67782A22-02F1-489D-8BC5-B413DCDEA845}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

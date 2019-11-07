@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "黄金分割法（徐广隆）", "黄金分割法（徐广隆）\黄金分割法（徐广隆）.vcxproj", "{AF73FCE2-0572-42B8-9D16-4686FD78C011}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF73FCE2-0572-42B8-9D16-4686FD78C011}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AF73FCE2-0572-42B8-9D16-4686FD78C011}.Debug|Win32.Build.0 = Debug|Win32
+		{AF73FCE2-0572-42B8-9D16-4686FD78C011}.Release|Win32.ActiveCfg = Release|Win32
+		{AF73FCE2-0572-42B8-9D16-4686FD78C011}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

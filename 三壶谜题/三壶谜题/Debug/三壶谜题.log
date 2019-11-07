@@ -1,0 +1,15 @@
+﻿生成启动时间为 2018/9/27 11:18:56。
+     1>项目“E:\VSProject\三壶谜题\三壶谜题\三壶谜题.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\三壶谜题.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "三壶谜题.cpp"
+         三壶谜题.cpp
+     1>e:\vsproject\三壶谜题\三壶谜题\三壶谜题.cpp(143): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\VSProject\三壶谜题\Debug\三壶谜题.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\VSProject\三壶谜题\Debug\三壶谜题.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\VSProject\三壶谜题\Debug\三壶谜题.lib" /MACHINE:X86 Debug\stdafx.obj
+         "Debug\三壶谜题.obj"
+         三壶谜题.vcxproj -> E:\VSProject\三壶谜题\Debug\三壶谜题.exe
+     1>已完成生成项目“E:\VSProject\三壶谜题\三壶谜题\三壶谜题.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.57
